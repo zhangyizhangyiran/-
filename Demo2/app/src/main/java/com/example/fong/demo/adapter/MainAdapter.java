@@ -17,7 +17,7 @@ import com.example.fong.demo.bean.UpToData;
 import org.greenrobot.eventbus.EventBus;
 
 /**
- *张毅
+ *
  */
 public class MainAdapter extends RecyclerView.Adapter<MainAdapter.MyViewHolder> {
     public final UpToData upToData;
